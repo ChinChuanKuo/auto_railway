@@ -1,0 +1,99 @@
+{
+    "info": {
+        "idcard": "A125530902",
+        "start_station": "3300-臺中",
+        "end_station": "1000-臺北",
+        "type": "去回",
+        "way": "依時段",
+        "count": "3",
+        "single": {
+            "car": {
+                "date": "2020/11/30",
+                "train_number": {
+                    "0": "104",
+                    "1": "104",
+                    "2": "104"
+                },
+                "seat_preference": "桌型座優先",
+                "search_preference": "No"
+            },
+            "time": {
+                "date": "2020/11/30",
+                "time_period": {
+                    "start_time": "17:30",
+                    "end_time": "23:59"
+                },
+                "seat_preference": "桌型座優先",
+                "car_type": {
+                    "0": "No",
+                    "1": "Yes",
+                    "2": "No",
+                    "3": "Yes",
+                    "4": "Yes"
+                },
+                "discount": "Yes",
+                "search_preference": "Yes"
+            }
+        },
+        "comeback": {
+            "car": {
+                "go": {
+                    "date": "2020/11/30",
+                    "train_number": {
+                        "0": "104",
+                        "1": "104",
+                        "2": "104"
+                    },
+                    "seat_preference": "不指定",
+                    "search_preference": "No"
+                },
+                "back": {
+                    "date": "20201205",
+                    "train_number": {
+                        "0": "104",
+                        "1": "104",
+                        "2": "104"
+                    },
+                    "seat_preference": "桌型座優先",
+                    "search_preference": "No"
+                }
+            },
+            "time": {
+                "go": {
+                    "date": "2020/11/30",
+                    "time_period": {
+                        "start_time": "17:30",
+                        "end_time": "23:59"
+                    },
+                    "seat_preference": "桌型座優先",
+                    "car_type": {
+                        "0": "No",
+                        "1": "Yes",
+                        "2": "No",
+                        "3": "Yes",
+                        "4": "Yes"
+                    },
+                    "discount": "Yes",
+                    "search_preference": "Yes"
+                },
+                "back": {
+                    "date": "20201205",
+                    "time_period": {
+                        "start_time": "17:30",
+                        "end_time": "23:59"
+                    },
+                    "seat_preference": "桌型座優先",
+                    "car_type": {
+                        "0": "No",
+                        "1": "Yes",
+                        "2": "No",
+                        "3": "Yes",
+                        "4": "Yes"
+                    },
+                    "discount": "Yes",
+                    "search_preference": "Yes"
+                }
+            }
+        }
+    }
+}
